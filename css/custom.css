@@ -39,8 +39,8 @@
 }
 
 .card-img-top {
-  height: 312px;
-  width: 348px;
+  height: 100%;
+  width: 100%;
 }
 
 #about:target,
