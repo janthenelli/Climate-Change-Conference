@@ -1,0 +1,51 @@
+
+
+.navbar .navbar-brand {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1rem;
+}
+
+.navbar {
+  background: rgb(0, 0, 0);
+}
+
+.jumbotron {
+  background-image: url('../img/aerial-of-green-trees.jpg');
+  background-size: cover;
+  /* margin-bottom: 0; */
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.modal-header span,
+.alert span,
+.custom-select {
+  cursor: pointer;
+}
+
+.custom-select option:hover {
+  border: none;
+}
+
+.card {
+  height: 100%;
+}
+
+.col-md-6,
+.col-lg-4 {
+  margin-bottom: 1rem;
+}
+
+.card-img-top {
+  height: 312px;
+  width: 348px;
+}
+
+#about:target,
+#speakers:target,
+#schedule:target {
+  padding-top: 100px;
+  margin-top: -100px;
+}
